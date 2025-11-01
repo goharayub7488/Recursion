@@ -1,0 +1,11 @@
+[33mcommit f16822343471f9b2cae7625641240312a0de5cc4[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Gohar Ayub <goharayub260@gmail.com>
+Date:   Sat Nov 1 15:25:19 2025 +0500
+
+    find the factorial of a number using recursion
+
+[33mcommit d24c5808109b4d9a230f332b51d790525fec803e[m
+Author: Gohar Ayub <goharayub260@gmail.com>
+Date:   Sat Nov 1 15:09:55 2025 +0500
+
+    Sum of n natural numbers using recursion
