@@ -1,8 +1,6 @@
 #include <iostream>
 #include <stdio.h>
 using namespace std;
-
-
 int  pow(int m,int n)
 {
     if(n==0)
@@ -10,7 +8,6 @@ int  pow(int m,int n)
     else
        return pow(m,n-1)*m;
 }
-
 int fastPow(int m,int n)
 {
     if(n==0)
@@ -21,7 +18,6 @@ int fastPow(int m,int n)
         return m*fastPow(m*m,(n-1)/2);
 
 }
-
 int main()
 {
     int base,exponent,choice;
